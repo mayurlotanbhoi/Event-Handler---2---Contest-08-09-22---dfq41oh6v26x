@@ -7,6 +7,7 @@ const App = () => {
     console.log("Button id is:-" + event.target.id)
 
   }
+  
   // For example if we click button a, it prints 'Button id is:-button-a'
   // and same for button-b or any other button we add in the app.
   // do not remove the two buttons or change their id
